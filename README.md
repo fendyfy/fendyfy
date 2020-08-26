@@ -1,4 +1,4 @@
-### Hi there, I'm Fendy. 👋 <br />
+### Hi there, I'm Fendy. 👋
 I'm a Web Developer, Network Engineer and Tech Support. ⚡ <br />
 Now I'm mostly code using ReactJS Framework and Django Framework. 🔭 <br />
 Always available for a cup of coffee... 💬
