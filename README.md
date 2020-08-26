@@ -1,5 +1,7 @@
-### Hi there 👋
-
+### Hi there, I'm Fendy. 👋
+I'm a Web Developer, Network Engineer and Tech Support. ⚡
+Now I'm mostly code using ReactJS Framework and Django Framework. 🔭
+Always available for a cup of coffee... 💬
 <!--
 **fendyfy/fendyfy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
