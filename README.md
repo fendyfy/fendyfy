@@ -3,7 +3,7 @@
 I'm a Web Developer, Network Engineer and Tech Support. ⚡ <br />
 Now I'm mostly code using ReactJS Framework and Django Framework. 🔭 <br />
 Always available for a cup of coffee... 💬 <br />
-🔥 <a href="https://www.fendyfy.com">Contact Me</a> 🔥
+🔥 <a href="https://www.fendyfy.com" target="_blank">Contact Me</a> 🔥
 <!--
 **fendyfy/fendyfy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
