@@ -1,6 +1,6 @@
 ### Hi there, I'm Fendy. 👋
 <hr />
-I'm a Web Developer, Network Engineer and Tech Support. ⚡ <br />
+I'm a Web Developer, Network Engineer and Helpdesk Tech. ⚡ <br />
 Now I'm mostly code using ReactJS Framework and Django Framework. 🔭 <br />
 Always available for a cup of coffee... 💬 <br />
 🔥 <a href="https://www.fendyfy.com" target="_blank">Contact Me</a> 🔥
